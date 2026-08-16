@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zone-karaoke-note.nrb-apgujeong-guide.xyz/sitemap.xml
+Sitemap: https://zone-karaoke-note.nrb-apgujeong-guide.xyz/sitemap-pages.xml
